@@ -1,0 +1,1 @@
+Mô hình dự đoán Open, High, Low, Close cost từ 9h15 đến 10h ngày hôm sau kể từ thời gian thực ( mỗi phút dự đoán 1 tập giá trị gồm Open, High, Low, Close cost ) và phác sự giao động trên biểu đồ ( mô hình chỉ dự đoán dữ liệu cổ phiếu FPT, các cổ phiếu sau train tương tự )
